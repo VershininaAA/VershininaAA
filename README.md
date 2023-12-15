@@ -1,4 +1,4 @@
-Hi! I'm Anastasiia
+<h1 aling="center">Hi! I'm Anastasiia</h1>
 
 <!--
 **VershininaAA/VershininaAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
